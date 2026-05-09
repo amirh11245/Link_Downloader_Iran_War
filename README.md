@@ -209,8 +209,14 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1. [watch](https://github.com/NimaOBR/Link_Downloader_Iran_War/tree/main/downloads/watch)
+1. [_beta](https://github.com/amirh11245/Link_Downloader_Iran_War/tree/main/downloads/_beta)
+
+2. [com.msteam.taron.org_7.0](https://github.com/amirh11245/Link_Downloader_Iran_War/tree/main/downloads/com.msteam.taron.org_7.0)
+
+3. [watch](https://github.com/amirh11245/Link_Downloader_Iran_War/tree/main/downloads/watch)
 
 ---
